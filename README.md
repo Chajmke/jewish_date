@@ -1,7 +1,8 @@
 # jewish_date
 The JavaScript Adaption of a C-script by Scott E. Lee, made by Bill Hastings to calculate the Jewish calendar date
 
-#German adaption
+# German adaption
+
 The German adaption was made to show the current Jewish/Hebrew date on talmud.de
 
 This script was adapted from C sources written by Scott E. Lee, which contain the following copyright notice:
