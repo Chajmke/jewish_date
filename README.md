@@ -5,6 +5,9 @@ The JavaScript Adaption of a C-script by Scott E. Lee, made by Bill Hastings to 
 
 The German adaption was made to show the current Jewish/Hebrew date on talmud.de
 
+# Feel free to branch and pull
+Feel free to make adaptions and changes. There is always room for improvement.
+
 # Original copyright notice
 This script was adapted from C sources written by Scott E. Lee, which contain the following copyright notice:
 Copyright 1993-1995, Scott E. Lee, all rights reserved.
