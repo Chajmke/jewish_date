@@ -40,7 +40,7 @@
                 moladDay = 0,
                 moladHalakim = 0;
         var gWeekday = new weekdayarr("Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Schabbat");
-        var gMonth = new gregmontharr("January","February","March","April","May","Juni","July","August","September","October","November","December");
+        var gMonth = new gregmontharr("Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember");
         var hMonth = new hebrewmontharr("Tischri","Cheschwan","Kislew","Tewet","Schewat","Adar I","Adar II","Nissan","Ijjar","Siwan","Tammus","Aw","Elul");
         var mpy = new monthsperyeararr(12,12,13,12,12,13,12,13,12,12,13,12,12,13,12,12,13,12,13);
 
